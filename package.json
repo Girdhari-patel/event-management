@@ -9,5 +9,8 @@
     "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend"
   },
   "author": "girdhari patel",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "web-vitals": "^4.2.4"
+  }
 }
