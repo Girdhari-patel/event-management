@@ -11,6 +11,7 @@
   "author": "girdhari patel",
   "license": "ISC",
   "dependencies": {
+    "nodemon": "^3.1.9",
     "web-vitals": "^4.2.4"
   }
 }
